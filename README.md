@@ -2,7 +2,7 @@
 # Discovering Predictable Latent Factors for Time Series Forecasting
 
 
-This repository is the official implementation of "Beyond Intrinsic Modes: Discovering Predictable Latent Factors for Financial Time Series Forecasting". 
+This repository is the official implementation of "Discovering Predictable Latent Factors for Financial Time Series Forecasting". 
 
 
 
